@@ -18,6 +18,7 @@
 - [Text Processing](#text-processing)
 - [Code Quality](#code-quality)
 - [API Testing](#api-testing)
+- [Application Testing](#application-testing)
 - [Git Tools](#git-tools)
 - [Terminal Tools](#terminal-tools)
 - [Online Toolkits](#online-toolkits)
@@ -56,6 +57,10 @@
 - [httpie](https://github.com/httpie/cli) - A modern, user-friendly command-line HTTP client for the API era.
 - [hurl](https://github.com/Orange-OpenSource/hurl) - Run and test HTTP requests with plain text.
 - [posting](https://github.com/darrenburns/posting) - A powerful HTTP client that lives in your terminal.
+
+## Application Testing
+
+- [agent-qa](https://vostride.com) - Tests web, Android and iOS apps via CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable run evidence.
 
 ## Git Tools
 
